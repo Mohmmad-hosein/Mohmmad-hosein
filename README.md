@@ -28,7 +28,7 @@
 - Optimized performance and enhanced user experience.  
 - Collaborated with the team to create reusable components.
 
-### Front-End Developer | Apanzo  
+### Front-End Developer | Apanco  
 📅 **January 2024 - Present**  
 - Designed and implemented responsive user interfaces.  
 - Documented project code for better collaboration.  
