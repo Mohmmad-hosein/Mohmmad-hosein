@@ -38,8 +38,8 @@
 
 ## 📬 How to Reach Me:
 - 📧 Email: mohammad.hossein.dev1@gmail.com  
-- 🔗 LinkedIn: [[Mohammad-Hosein-Jalali](https://www.linkedin.com/in/seyed-mohammad-hossein-jalali-7745a8334/)](#)  
-- 🐙 GitHub: [@Mohammad-Hosein](https://github.com/Mohmmad-hosein)
+- 🔗 LinkedIn: [[Mohammad-Hossein-Jalali](https://www.linkedin.com/in/seyed-mohammad-hossein-jalali-7745a8334/)](#)  
+- 🐙 GitHub: [@Mohammad-Hossein](https://github.com/Mohmmad-hosein)
 
 ---
 
