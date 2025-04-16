@@ -29,7 +29,7 @@
 - Collaborated with the team to create reusable components.
 
 ### Front-End Developer | Apanco  
-📅 **January 2024 - Present**  
+📅 **January 2024 - April 2025**  
 - Designed and implemented responsive user interfaces.  
 - Documented project code for better collaboration.  
 - Optimized performance and debugged team projects.  
